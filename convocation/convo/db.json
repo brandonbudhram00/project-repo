@@ -1,0 +1,33 @@
+{
+    "users": [
+        {
+            "email": "sodhana.reddy@humber.ca.ZZZZ",
+            "name": "Sodhana Reddy",
+            "address": {
+                "line1": "205 Humber College Blvd",
+                "line2": "",
+                "city": "Toronto",
+                "state": "ON",
+                "zip": "M9W SL7"
+            },
+            "programs": [{
+                "name": "Bachelor of Health Science (Workplace Health and Wellness)",
+                "eligibility": true,
+                "date": "June 2022",
+                "attending": true
+              },
+              {
+                "name": "Early Childhood Education",
+                "eligibility": true,
+                "date": "June 2022",
+                "attending": false
+              }
+            ]
+
+        }
+    ],
+
+    "control": {
+        "active": true
+    }
+}
